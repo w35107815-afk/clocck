@@ -1,1 +1,1 @@
-  { "devices": {get} }
+  { "devices": {get token} }
