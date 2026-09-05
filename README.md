@@ -1,1 +1,1 @@
-get koment
+get token
